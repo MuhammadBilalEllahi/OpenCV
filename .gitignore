@@ -4,4 +4,5 @@ parrot-stack.png
 .DS_Store
 task/*
 task.zip
-images/
+images/*
+!dark-drink-gray-bg-s.png
